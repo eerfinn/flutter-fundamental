@@ -45,3 +45,11 @@
 
 ### Langkah 12: Teks yang ditampilkan dalam aplikasi berupa nama lengkap
    ![create_repository](images/17.png)
+
+
+## Praktikum 4: Menerapkan Widget Dasar
+### Langkah 1: Text Widget
+   ![text_widget](images/18.png)
+
+### Langkah 2: Image Widget
+   ![image_widget](images/19.png)
