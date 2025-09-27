@@ -18,7 +18,7 @@
 ## Praktikum 2: Menghubungkan Perangkat Android/Emulator
 
 * **Langkah 1:** Mengaktifkan proses debug USB dan Menginstall Driver USB Google  
-    ![connecting_devices_usb](images/06.jpg)
+   <img src="images/06.jpg" alt="connecting_devices_usb" width="900"/>
     ![connecting_devices_usb](images/07.png)
 
 * **Langkah 2:** Sambungkan perangkat Android ke komputer menggunakan kabel USB
@@ -29,9 +29,14 @@
     ![connecting_devices_usb](images/10.jpg)
 
 * **Langkah 4:** Sambungkan perangkat Android dan komputer ke jaringan nirkabel yang sama
-    ![connecting_devices_wifi](images/11.jpg)
-    ![connecting_devices_wifi](images/12.png)   
+    ![connecting_devices_wifi](images/11.png)   
 
 * **Langkah 5:** Scan QR Code dengan perangkat Android
+    ![connecting_devices_wifi](images/12.jpg)
     ![connecting_devices_wifi](images/13.jpg)
-    ![connecting_devices_wifi](images/14.jpg)
+
+## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
+
+* **Langkah 1-10:** Membuat dan Remote Repository GitHub
+    ![create_repository](images/14.png)
+    ![create_repository](images/15.png)
