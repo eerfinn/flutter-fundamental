@@ -30,3 +30,8 @@
 
 * **Langkah 4:** Sambungkan perangkat Android dan komputer ke jaringan nirkabel yang sama
     ![connecting_devices_wifi](images/11.jpg)
+    ![connecting_devices_wifi](images/12.png)   
+
+* **Langkah 5:** Scan QR Code dengan perangkat Android
+    ![connecting_devices_wifi](images/13.jpg)
+    ![connecting_devices_wifi](images/14.jpg)
