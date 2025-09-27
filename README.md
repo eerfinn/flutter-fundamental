@@ -53,3 +53,23 @@
 
 ### Langkah 2: Image Widget
    ![image_widget](images/19.png)
+
+
+## Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
+### Langkah 1: Cupertino Button dan Loading Bar
+   ![cupertino_button](images/20.png)
+
+### Langkah 2: Floating Action Button (FAB)
+   ![floating_action_button](images/21.png)
+
+### Langkah 3: Scaffold Widget
+   ![scaffold_widget](images/22.gif)
+
+### Langkah 4: Dialog Widget
+   ![dialog_widget](images/23.gif)
+
+### Langkah 5: Input dan Selection Widget
+   ![input_selection_widget](images/24.png)
+
+### Langkah 6: Date and Time Pickers
+   ![date_time_picker](images/25.gif)
